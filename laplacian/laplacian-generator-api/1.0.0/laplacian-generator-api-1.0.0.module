@@ -1,0 +1,180 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "laplacian",
+    "module": "laplacian-generator-api",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.6.1",
+      "buildId": "viyk24vaabfnhng4e63pt3yrju"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.jknack",
+          "module": "handlebars",
+          "version": {
+            "requires": "4.1.2"
+          }
+        },
+        {
+          "group": "org.pf4j",
+          "module": "pf4j",
+          "version": {
+            "requires": "3.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "laplacian-generator-api-1.0.0.jar",
+          "url": "laplacian-generator-api-1.0.0.jar",
+          "size": 62252,
+          "sha512": "8360ace052d2ab01ff2e8b453441f4692397924873f2d1614155d62cd4edae0183f680ab1e384cc79980ce548e7dd6ba2554e71398b4b97c94022edf979a53a1",
+          "sha256": "87a125188e833c331e85391c6caf81f850bad23e3e2e8d17177fc08f93294a51",
+          "sha1": "1a52a95dbae6c719265b95d7a0ab5de4835ada6c",
+          "md5": "60d0eda6b9b719e4c6f426509f51a07d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.4.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.4.21"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.dataformat",
+          "module": "jackson-dataformat-yaml",
+          "version": {
+            "requires": "2.11.2"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.module",
+          "module": "jackson-module-kotlin",
+          "version": {
+            "requires": "2.11.2"
+          }
+        },
+        {
+          "group": "com.networknt",
+          "module": "json-schema-validator",
+          "version": {
+            "requires": "1.0.39"
+          }
+        },
+        {
+          "group": "org.atteo",
+          "module": "evo-inflector",
+          "version": {
+            "requires": "1.2.2"
+          }
+        },
+        {
+          "group": "com.github.javafaker",
+          "module": "javafaker",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-api",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "org.slf4j",
+          "module": "slf4j-simple",
+          "version": {
+            "requires": "1.7.30"
+          }
+        },
+        {
+          "group": "com.github.jknack",
+          "module": "handlebars",
+          "version": {
+            "requires": "4.1.2"
+          }
+        },
+        {
+          "group": "org.pf4j",
+          "module": "pf4j",
+          "version": {
+            "requires": "3.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "laplacian-generator-api-1.0.0.jar",
+          "url": "laplacian-generator-api-1.0.0.jar",
+          "size": 62252,
+          "sha512": "8360ace052d2ab01ff2e8b453441f4692397924873f2d1614155d62cd4edae0183f680ab1e384cc79980ce548e7dd6ba2554e71398b4b97c94022edf979a53a1",
+          "sha256": "87a125188e833c331e85391c6caf81f850bad23e3e2e8d17177fc08f93294a51",
+          "sha1": "1a52a95dbae6c719265b95d7a0ab5de4835ada6c",
+          "md5": "60d0eda6b9b719e4c6f426509f51a07d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "laplacian-generator-api-1.0.0-sources.jar",
+          "url": "laplacian-generator-api-1.0.0-sources.jar",
+          "size": 13582,
+          "sha512": "6b445f98dcba32a99888d73471f75c59b75c443008fdcabacb2b06d4c6ed269936a72e833b3b19d3c8727a33939efd495e1aee714c61c1c37b21906db3b5ea74",
+          "sha256": "cd068a29b351809aeca732a199771697bbdcb8f2f680dacae4070059262e8c58",
+          "sha1": "0b83f68db149d69b41aa57010420b05624627e4f",
+          "md5": "56977c6926492e7b8056f23eff61b2dd"
+        }
+      ]
+    }
+  ]
+}
