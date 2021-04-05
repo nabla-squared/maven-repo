@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.6.1",
-      "buildId": "viyk24vaabfnhng4e63pt3yrju"
+      "buildId": "wtgsfsjf5jdpfpz63mdu5uww4m"
     }
   },
   "variants": [
@@ -46,11 +46,11 @@
         {
           "name": "laplacian-generator-api-1.0.0.jar",
           "url": "laplacian-generator-api-1.0.0.jar",
-          "size": 62252,
-          "sha512": "8360ace052d2ab01ff2e8b453441f4692397924873f2d1614155d62cd4edae0183f680ab1e384cc79980ce548e7dd6ba2554e71398b4b97c94022edf979a53a1",
-          "sha256": "87a125188e833c331e85391c6caf81f850bad23e3e2e8d17177fc08f93294a51",
-          "sha1": "1a52a95dbae6c719265b95d7a0ab5de4835ada6c",
-          "md5": "60d0eda6b9b719e4c6f426509f51a07d"
+          "size": 62467,
+          "sha512": "07ba224962f8f87fd33c910571442b9d49727351db06913de3209d4c76eadfdae0af96eed3e492924537af04bc386bc6d0555740bc4122005965f10691468379",
+          "sha256": "9c1a25ac8434c3bf465751d5ce346ee87b56e824ace1a508da9061ea721a3bcb",
+          "sha1": "137443ccb557db798470072f3adffcf6e99b3d89",
+          "md5": "b14ac80a38f231f0bbeb885d4c908313"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "laplacian-generator-api-1.0.0.jar",
           "url": "laplacian-generator-api-1.0.0.jar",
-          "size": 62252,
-          "sha512": "8360ace052d2ab01ff2e8b453441f4692397924873f2d1614155d62cd4edae0183f680ab1e384cc79980ce548e7dd6ba2554e71398b4b97c94022edf979a53a1",
-          "sha256": "87a125188e833c331e85391c6caf81f850bad23e3e2e8d17177fc08f93294a51",
-          "sha1": "1a52a95dbae6c719265b95d7a0ab5de4835ada6c",
-          "md5": "60d0eda6b9b719e4c6f426509f51a07d"
+          "size": 62467,
+          "sha512": "07ba224962f8f87fd33c910571442b9d49727351db06913de3209d4c76eadfdae0af96eed3e492924537af04bc386bc6d0555740bc4122005965f10691468379",
+          "sha256": "9c1a25ac8434c3bf465751d5ce346ee87b56e824ace1a508da9061ea721a3bcb",
+          "sha1": "137443ccb557db798470072f3adffcf6e99b3d89",
+          "md5": "b14ac80a38f231f0bbeb885d4c908313"
         }
       ]
     },
@@ -168,11 +168,11 @@
         {
           "name": "laplacian-generator-api-1.0.0-sources.jar",
           "url": "laplacian-generator-api-1.0.0-sources.jar",
-          "size": 13582,
-          "sha512": "6b445f98dcba32a99888d73471f75c59b75c443008fdcabacb2b06d4c6ed269936a72e833b3b19d3c8727a33939efd495e1aee714c61c1c37b21906db3b5ea74",
-          "sha256": "cd068a29b351809aeca732a199771697bbdcb8f2f680dacae4070059262e8c58",
-          "sha1": "0b83f68db149d69b41aa57010420b05624627e4f",
-          "md5": "56977c6926492e7b8056f23eff61b2dd"
+          "size": 13629,
+          "sha512": "82a65289a2e2cdb2a185d87c543cbf98f9c8c829bf7f39de630a4e0142e824919a6f96015f4922f11c3b6419171d63eb664492e1a5b6863cb8576eca3ec734be",
+          "sha256": "0e967b45c780bc721741182ca053393d4d43b1dd89ea23e93e51e52d8a97117a",
+          "sha1": "56efbc9c492e99d6ead02c6ca096043ead598be6",
+          "md5": "b03a0daa0a3de0629b358727cecbf804"
         }
       ]
     }
